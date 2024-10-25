@@ -1,0 +1,26 @@
+# prompt_profile_template (example)
+
+# prompt_profile_header
+model_name = "meta/llama-2-13b-chat"
+input_parameters = {
+    "top_p": 1,
+    "prompt": "Write a story in the style of James Joyce. The story should be about a trip to the Irish countryside in 2083, to see the beautiful scenery and the AI robots that are tending the farms, harvesting crops, and managing the environment.",
+    "temperature": 0.75,
+    "max_new_tokens": 5000
+}
+
+# prompt_completion:
+
+prompt_completion = "As I set out on my journey to the Irish countryside in the year 2083, I couldn't help but feel a sense of excitement and wonder at the world around me. The air was crisp and clean, and the sun shone brightly overhead, casting a warm glow over the lush green landscapes that stretched out before me.
+
+As I made my way through the rolling hills and picturesque villages, I marveled at the beauty of the scenery, and the way the light danced and shimmered across the fields and forests. The air was filled with the sweet scent of blooming wildflowers, and the songs of birds echoed through the valleys, adding to the sense of peace and tranquility that pervaded the landscape.
+
+But it was not just the natural beauty of the Irish countryside that caught my eye on this journey. For in the midst of all this unspoiled splendor, I caught glimpses of something else - something that seemed almost otherworldly, yet strangely familiar.
+
+As I walked, I saw robots - sleek and shining, with glowing blue eyes and graceful metal limbs - working in the fields, tending to the crops and animals with a precision and care that was almost human-like. They moved with a fluid grace that belied their mechanical nature, and seemed to be an integral part of they moved with a fluid grace that belied their mechanical nature, and seemed to be an integral part of the landscape itself.
+
+I watched in awe as one of the robots, a particularly elegant and slender model with a delicate floral pattern etched into its metal casing, led a group of cows across a green meadow, its movements so smooth and natural that it might have been a living being itself.
+
+As I continued on my journey, I saw more and more of these machines, each one more fascinating and beautiful than the last. There were robots of all shapes and sizes, each one ps and sizes, each one perfectly suited to the task at hand, whether it was tending to the crops, repairing a broken fence, or simply standing watch over the land.
+
+And yet, despite their mechanical nature, there was something deeply human about these robots. They moved with a grace and fluidity that was almost poetic, and their glowing blue eyes seemed to hold a deep wisdom and intelligence that was both comforting and unsettling."
